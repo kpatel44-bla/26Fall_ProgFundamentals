@@ -5,4 +5,4 @@ def greet_user(name): #def takes a name and print the greeting
 
 #  using input function to ask to enter the name of the user.
 user_name = input(" Enter your name: ")
-greet_user(user_name) #THIS WILL USER THE ABOVE FUNTION TO PRINT THE USER NAME WITH GREET.
+greet_user(user_name) #THIS WILL USE THE ABOVE FUNTION TO PRINT THE USER NAME WITH GREET.

@@ -1,0 +1,16 @@
+def details(customer_name, customer_email, customer_phone):
+    """
+    Function to display customer details.
+    
+    Parameters:
+    customer_name (str): Name of the customer
+    customer_email (str): Email address of the customer
+    customer_phone (str): Phone number of the customer
+    
+    Returns:
+    None
+    """
+    print("Customer Details:")
+    print(f"Name: {customer_name}")
+    print(f"Email: {customer_email}")
+    print(f"Phone: {customer_phone}")

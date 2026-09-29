@@ -5,7 +5,7 @@
 def rectangle_stats(length, width): #def takes length and width and calculate the area and perimeter.
     area = length * width #area calculation
     perimeter = 2 * (length + width) #perimeter calculation
-    return area, perimeter #returning the area and perimeter
+    return area, perimeter #returning the area and perimeter enter by the user.
 
 #asking the user to enter the length and width using inputr function.
 length = float(input("Enter the length: ")) #taking length input from user
